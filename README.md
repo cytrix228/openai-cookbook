@@ -7,7 +7,11 @@
 
 <h3></h3>
  
+
+
 > ✨ Navigate at [cookbook.openai.com](https://cookbook.openai.com)
+
+Hello.....this is citrix!!!!!
 
 Example code and guides for accomplishing common tasks with the [OpenAI API](https://platform.openai.com/docs/introduction). To run these examples, you'll need an OpenAI account and associated API key ([create a free account here](https://beta.openai.com/signup)).
 
